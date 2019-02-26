@@ -1,4 +1,4 @@
-# TAMU Spirit -- Texas A&M Mobile Bus Aplication
+# TAMU Spirit -- Texas A&M Mobile Bus Application
 
 ## About the App
 TAMU Spirit is a cross-platform mobile application available for iOS and Android. The app displays live A&M bus locations, stop times and routes. Using a Web API, the app makes GET requests to retreive all of its data and convert from the GIS map system the buses use to the standard longitude and latitude values used in the Google maps API. The app was built using Google's mobile UI toolkit, Flutter. This application is available to over 60,000 students and faculty, provide a live stream of every bus route A&M has running at any time.
